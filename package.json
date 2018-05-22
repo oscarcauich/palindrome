@@ -1,0 +1,22 @@
+{
+  "name": "ocauich-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarcauich/palindrome.git"
+  },
+  "keywords": [
+    "palindrome"
+  ],
+  "author": "Oscar Cauich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oscarcauich/palindrome/issues"
+  },
+  "homepage": "https://github.com/oscarcauich/palindrome#readme"
+}
